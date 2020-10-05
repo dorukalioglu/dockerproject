@@ -1,0 +1,3 @@
+docker build .
+docker tag ***** dorukalioglu/test:0.5
+docker push dorukalioglu/test:0.5

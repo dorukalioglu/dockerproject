@@ -1,0 +1,7 @@
+Flame
+Gas
+Rain
+Motion
+Temperature 
+Humidity 
+Buzzer
